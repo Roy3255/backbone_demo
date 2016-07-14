@@ -1,2 +1,1 @@
-# backbone_demo
-backbone demo
+https://github.com/jashkenas/backbone.git
